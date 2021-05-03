@@ -1,9 +1,10 @@
 # PixelFisher
 
-This repository contains two pixel-based bots for fishing in WoW: One acting on sound to detect when to click the bobber, and one acting on movement of the bobber.
+This repository contains two pixel-based bots for fishing in WoW: One acting on sound to detect when to click the bobber, and one acting on movement of the bobber. These python scripts most likely do not work out of the box, and have solely been published for others to learn.
+
 The bots function by rapidly screenshotting the monitor and detecting the fishing bobber. Thus, there is no need for reading memory or injection. 
 
-To use:
+Basic use:
 1. Place your character where you want to fish. Make sure no mobs are nearby.
 2. Place fishing key on 1.
 3. Zoom in.
