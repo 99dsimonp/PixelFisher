@@ -12,3 +12,6 @@ To use:
 
 The bots use template matching with opencv2 to find the bobber. 
 To use the audio version you will need to install a separate program (https://vb-audio.com/Cable/index.htm) for a virtual audio output. WoW has to be outputting sound unto this virtual audio device. Meanwhile, sounddevice on Python has to hook up to this device - it may not automatically be doing so. Make sure to turn off music in wow. 
+
+
+THIS REPOSITORY EXISTS FOR EDUCATIONAL PURPOSES ONLY AND NO FURTHER SUPPORT WILL BE GIVEN TO MAKE THINGS WORK.
