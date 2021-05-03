@@ -3,7 +3,6 @@ import numpy as np
 import mss
 import pyautogui
 import time
-import queue
 import pyaudio
 import struct
 import math
@@ -11,7 +10,6 @@ import random
 
 sct = mss.mss()
 all = sct.monitors
-#img = np.array(0)
 
 found_fish = False
 p = pyaudio.PyAudio()
@@ -76,7 +74,6 @@ while True:
         bottom_right = (top_left[0] + w, top_left[1] + h)
         mid = (top_left[0] + w/2, top_left[1] + h/2)
         pyautogui.moveTo(mid)
-        q = queue.Queue()
 
         while True:
             try:
