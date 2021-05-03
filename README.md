@@ -7,7 +7,7 @@ To use:
 1. Place your character where you want to fish. Make sure no mobs are nearby.
 2. Place fishing key on 1.
 3. Zoom in.
-4. Take a screenshot, crop it to just include the bobber, name it bobber.png and place in same folder.
+4. Take a screenshot, crop it to just include the bobber, name it bobber.jpg and place in same folder. See file in repo as example.
 5. Run python script.
 
 
