@@ -1,4 +1,5 @@
 # Print out realtime audio volume as ascii bars
+# Has nothing to do with the bot, but can be used to test if your audio setup is working properly.
 
 import sounddevice as sd
 import numpy as np
